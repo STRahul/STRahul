@@ -9,7 +9,7 @@
 </h3>
 
 <h4 align='center'>
-  Embedded Software Developer (JavaScript | TypeScript | ReactJs | Next.js | HTML | CSS | TailwindCSS | Jest | Redux Toolkit )
+  FrontEnd Developer (JavaScript | TypeScript | ReactJs | Next.js | HTML | CSS | TailwindCSS | Jest | Redux Toolkit )
 </h4>
 
 
